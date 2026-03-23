@@ -1,0 +1,47 @@
+body {
+    background-color:antiquewhite;
+    font-family: "Courier New", Courier, monospace;
+}
+
+#about {
+    border: 5px double black;
+    border-radius: 20px;
+    padding-left: 18px;
+}
+
+#education {
+    border: 5px double black;
+    border-radius: 20px;
+    padding-left: 18px;
+}
+
+#projects {
+    border: 5px double black;
+    border-radius: 20px;
+    padding-left: 18px;
+}
+
+#experiences {
+    border: 5px double black;
+    border-radius: 20px;
+    padding-left: 18px;
+}
+
+#skills {
+    border: 5px double black;
+    border-radius: 20px;
+    padding-left: 18px;
+}
+
+#contact {
+    border: 5px double black;
+    border-radius: 20px;
+    padding-left: 18px;
+}
+
+#navbar {
+    display: flex;
+    justify-content: center;
+    gap: 40px; 
+    transform: translateX(300px);
+}
